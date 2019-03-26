@@ -1,4 +1,10 @@
 body{
     font-family: "montserrat";
-    text-align: center;
+    background-color: rgb(240, 240, 240);
+    margin: 20px;
+    
+}
+image{
+    margin-left: 0px;
+    border-radius: 1000px;
 }
